@@ -1,4 +1,4 @@
-# Automação de Taferas 
+# Automação de Tarefas 
 
 <img src="https://github.com/sylvanyab/automacao-de-tarefas/blob/main/beyond%20the%20other%20side.gif" width="50%" align="right" /> 
 
